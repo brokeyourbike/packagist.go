@@ -1,4 +1,8 @@
 # packagist.go
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/de00a0d47499a67619dc/maintainability)](https://codeclimate.com/github/brokeyourbike/packagist.go/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/de00a0d47499a67619dc/test_coverage)](https://codeclimate.com/github/brokeyourbike/packagist.go/test_coverage)
+
 Composer repository for PHP packages, written in Go.
 
 ## Assets
