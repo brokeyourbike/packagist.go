@@ -10,5 +10,5 @@ Icon from [Social media and logos icon pack](https://www.iconfinder.com/iconsets
 
 ## Acknowledgements
 
-[composer/satis](https://github.com/composer/satis)
-[composer/packagist](https://github.com/composer/packagist)
+- [composer/satis](https://github.com/composer/satis)
+- [composer/packagist](https://github.com/composer/packagist)
