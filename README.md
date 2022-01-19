@@ -15,4 +15,6 @@ Icon from [Social media and logos icon pack](https://www.iconfinder.com/iconsets
 ## Acknowledgements
 
 - [composer/satis](https://github.com/composer/satis)
+- [ludofleury/satisfy](https://github.com/ludofleury/satisfy)
 - [composer/packagist](https://github.com/composer/packagist)
+- [Private Packagist](https://packagist.com)
