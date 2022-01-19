@@ -7,7 +7,7 @@ Composer repository for PHP packages, written in Go.
 
 ## Why
 
-Why not?
+Why not? Golang seems like a perfect match for the task. I don't want to boot whole PHP app for this simple case.
 
 ## Assets
 Icon from [Social media and logos icon pack](https://www.iconfinder.com/iconsets/social-media-and-logos-11)
